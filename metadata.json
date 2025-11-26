@@ -1,0 +1,5 @@
+{
+  "name": "AlphaInsight: Institutional Financial Analyzer",
+  "description": "A multi-agent AI system designed for investors to instantly analyze PDF financial reports, extract key metrics, visualize trends, and provide investment recommendations.",
+  "requestFramePermissions": []
+}
