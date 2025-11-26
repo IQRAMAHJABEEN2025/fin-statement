@@ -94,7 +94,7 @@ export const Footer: React.FC = () => {
             © {new Date().getFullYear()} AlphaInsight. All rights reserved.
           </div>
           <div className="flex gap-6">
-            <span>Designed with AI</span>
+            <span>Designed with 🩷</span>
           </div>
         </div>
       </div>
